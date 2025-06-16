@@ -1,0 +1,6 @@
+
+fpdf
+
+streamlit
+Pillow
+
